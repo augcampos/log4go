@@ -1,7 +1,3 @@
-# This is an unmaintained fork, left only so it doesn't break imports.
-
-
-
 Installation:
 - Run `go install github.com/augcampos/log4go`
 
